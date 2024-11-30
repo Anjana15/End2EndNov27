@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # End-to-end-Machine-Learning-Project-with-MLflow
 
 
@@ -161,3 +162,6 @@ MLflow
  - Its Production Grade
  - Trace all of your expriements
  - Logging & tagging your model
+=======
+# endtoendNov27
+>>>>>>> 05196a4e15be74325d113edbd4831706d5d51324
