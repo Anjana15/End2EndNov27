@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anjan/Documents/MyLearning/MLOps/mlruns/0/53c02b2af4104a5a8292933d1b52b549/artifacts
+end_time: 1733012045358
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53c02b2af4104a5a8292933d1b52b549
+run_name: kindly-horse-39
+run_uuid: 53c02b2af4104a5a8292933d1b52b549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733012042502
+status: 3
+tags: []
+user_id: anjan
