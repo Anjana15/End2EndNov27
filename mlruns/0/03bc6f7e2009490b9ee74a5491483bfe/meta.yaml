@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anjan/Documents/MyLearning/MLOps/mlruns/0/03bc6f7e2009490b9ee74a5491483bfe/artifacts
+end_time: 1733013680354
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03bc6f7e2009490b9ee74a5491483bfe
+run_name: traveling-mouse-885
+run_uuid: 03bc6f7e2009490b9ee74a5491483bfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733013676821
+status: 3
+tags: []
+user_id: anjan

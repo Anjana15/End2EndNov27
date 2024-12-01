@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anjan/Documents/MyLearning/MLOps/mlruns/0/c34ab37fe1264f65b7340e67ee8fb710/artifacts
+end_time: 1733012385998
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c34ab37fe1264f65b7340e67ee8fb710
+run_name: gifted-kit-861
+run_uuid: c34ab37fe1264f65b7340e67ee8fb710
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733012382650
+status: 3
+tags: []
+user_id: anjan

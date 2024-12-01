@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anjan/Documents/MyLearning/MLOps/mlruns/0/56d3a8fd9d37425e98af7d390459a621/artifacts
+end_time: 1733013707978
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56d3a8fd9d37425e98af7d390459a621
+run_name: victorious-chimp-448
+run_uuid: 56d3a8fd9d37425e98af7d390459a621
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733013705134
+status: 3
+tags: []
+user_id: anjan
