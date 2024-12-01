@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anjan/Documents/MyLearning/MLOps/mlruns/0/780e307c431848ccb16b50cc9332986e/artifacts
+end_time: 1733010785343
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 780e307c431848ccb16b50cc9332986e
+run_name: nimble-snake-875
+run_uuid: 780e307c431848ccb16b50cc9332986e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733010782452
+status: 3
+tags: []
+user_id: anjan
